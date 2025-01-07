@@ -1,4 +1,5 @@
 import './App.css'
+import Navbar from './components/headers/navbar'
 
 function App() {
 
@@ -6,8 +7,8 @@ function App() {
 
     <>
     
-      <h1>Vite + React</h1>
-  
+    <Navbar></Navbar>
+
     </>
   )
 }
