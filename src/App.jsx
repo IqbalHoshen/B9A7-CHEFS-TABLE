@@ -8,12 +8,12 @@ function App() {
   return (
 
     <>
-    
-    <div>
-    <Navbar></Navbar>
-    <Banner></Banner>
-    <Recipes></Recipes>
-    </div>
+
+      <div>
+        <Navbar></Navbar>
+        <Banner></Banner>
+        <Recipes></Recipes>
+      </div>
 
     </>
   )
