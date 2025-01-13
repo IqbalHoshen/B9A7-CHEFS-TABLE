@@ -9,7 +9,7 @@ function App() {
 
     <>
 
-      <div>
+      <div className='container mx-auto'>
         <Navbar></Navbar>
         <Banner></Banner>
         <Recipes></Recipes>
